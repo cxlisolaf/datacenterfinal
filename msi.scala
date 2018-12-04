@@ -3,7 +3,7 @@ import org.apache.spark.{SparkConf, SparkContext}
 import org.apache.spark.graphx._
 import org.apache.spark.rdd.RDD
 
-/*
+
     val edges = links.map { line =>
   		val fields = line.split('\t')
   		Edge(fields(0).toLong, fields(1).toLong, 0)
@@ -11,9 +11,9 @@ import org.apache.spark.rdd.RDD
 
     //val socialgraph = Graph(vertices, relationships)
     val socialgraph : Graph[Any, String] = Graph.fromEdges(edges, "defaultProperty")
-*/
 
-/*
+
+
 val graph = GraphLoader.edgeListFile(sc, "edge.txt")
 // Find the connected components
 val cc = graph.connectedComponents().vertices
@@ -26,7 +26,7 @@ val ccByUsername = nodes.join(cc).map {
 }
 // Print the result
 println(ccByUsername.collect().mkString("\n"))
-*/
+
 
 def rcvMsg(id: VertexId, value: Long, mesage: Long): Long = {
       if (msg == ?) {
