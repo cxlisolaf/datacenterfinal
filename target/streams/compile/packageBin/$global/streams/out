@@ -1,0 +1,33 @@
+[0m[[0minfo[0m] [0mPackaging /users/jczhu/sparkapp/graphx/target/scala-2.11/im-project_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	Simulation$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	  /users/jczhu/sparkapp/graphx/target/scala-2.11/classes/Simulation$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	Simulation$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	  /users/jczhu/sparkapp/graphx/target/scala-2.11/classes/Simulation$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	Simulation$.class[0m
+[0m[[0mdebug[0m] [0m	  /users/jczhu/sparkapp/graphx/target/scala-2.11/classes/Simulation$.class[0m
+[0m[[0mdebug[0m] [0m	GraphUtil$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /users/jczhu/sparkapp/graphx/target/scala-2.11/classes/GraphUtil$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	GraphUtil$$anonfun$undirected$1.class[0m
+[0m[[0mdebug[0m] [0m	  /users/jczhu/sparkapp/graphx/target/scala-2.11/classes/GraphUtil$$anonfun$undirected$1.class[0m
+[0m[[0mdebug[0m] [0m	GraphUtil.class[0m
+[0m[[0mdebug[0m] [0m	  /users/jczhu/sparkapp/graphx/target/scala-2.11/classes/GraphUtil.class[0m
+[0m[[0mdebug[0m] [0m	Simulation$$anonfun$run$1.class[0m
+[0m[[0mdebug[0m] [0m	  /users/jczhu/sparkapp/graphx/target/scala-2.11/classes/Simulation$$anonfun$run$1.class[0m
+[0m[[0mdebug[0m] [0m	GraphUtil$$anonfun$mapTypes$1.class[0m
+[0m[[0mdebug[0m] [0m	  /users/jczhu/sparkapp/graphx/target/scala-2.11/classes/GraphUtil$$anonfun$mapTypes$1.class[0m
+[0m[[0mdebug[0m] [0m	Simulation$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /users/jczhu/sparkapp/graphx/target/scala-2.11/classes/Simulation$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	Simulation$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /users/jczhu/sparkapp/graphx/target/scala-2.11/classes/Simulation$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	Simulation$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /users/jczhu/sparkapp/graphx/target/scala-2.11/classes/Simulation$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	Simulation$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /users/jczhu/sparkapp/graphx/target/scala-2.11/classes/Simulation$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	Simulation.class[0m
+[0m[[0mdebug[0m] [0m	  /users/jczhu/sparkapp/graphx/target/scala-2.11/classes/Simulation.class[0m
+[0m[[0mdebug[0m] [0m	GraphUtil$$anonfun$undirected$2.class[0m
+[0m[[0mdebug[0m] [0m	  /users/jczhu/sparkapp/graphx/target/scala-2.11/classes/GraphUtil$$anonfun$undirected$2.class[0m
+[0m[[0mdebug[0m] [0m	GraphUtil$.class[0m
+[0m[[0mdebug[0m] [0m	  /users/jczhu/sparkapp/graphx/target/scala-2.11/classes/GraphUtil$.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

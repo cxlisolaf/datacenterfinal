@@ -1,4 +1,4 @@
-import GraphUtil
+import org.apache.spark.GraphUtil
 import org.apache.spark.graphx._
 import org.apache.spark.SparkContest
 import org.apache.spark.SparkConf
@@ -55,15 +55,25 @@ Object Experiment extends Logging {
     def sendMessage(edge: EdgeTriplet[Long, Double]) = {
 
       if (edge.dstAttr == ACTIVE || edge.dstAttr == VISITED) {
+
         Iterator.empty
+
       } else if (edge.srcAttr == ACTIVE) {
+
         if (math.random <= edge.attr) {
+
           Iterator((edge.dstId, ACTIVE))
+
         } else {
+
           Iterator.empty
+
         }
+
       } else {
+
         Iterator.empty
+
       }
     }
 
@@ -80,7 +90,9 @@ Object Experiment extends Logging {
         activeDirection = EdgeDirection.Out)(vertexProgram, sendMessage, messageCombiner)
         .vertices.filter(vd => vd._2 == ACTIVE || vd._2 == VISITED)
         .count
+
       iter += 1
+
       if (iter % 50 == 0) {
         println("iter : " + iter)
       }
