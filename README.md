@@ -6,3 +6,4 @@ Score
 
 Proposal : 10/10
 Checkpoint 1 : 10/10
+Checkpoint2 : 9/10
