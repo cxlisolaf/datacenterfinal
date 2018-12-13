@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="571302e2-ba20-4e91-8a3e-592554b3b62d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/facebook_combined.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xiaolan@ms0917.utah.cloudlab.us" beforeDir="false" />
-    </list>
+    <list default="true" id="571302e2-ba20-4e91-8a3e-592554b3b62d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -70,8 +61,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../../sparkapp/graphx/src/main/scala/sim.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="77" column="65" selection-start-line="77" selection-start-column="65" selection-end-line="77" selection-end-column="65" />
+            <state relative-caret-position="267">
+              <caret line="72" column="16" lean-forward="true" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="16" />
               <folding>
                 <element signature="e#33#65#0" expanded="true" />
               </folding>
@@ -99,7 +90,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="113" />
     <option name="y" value="103" />
     <option name="width" value="1220" />
@@ -189,12 +180,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543963428230</updated>
-      <workItem from="1543963429969" duration="9611000" />
+      <workItem from="1543963429969" duration="9614000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9611000" />
+    <option name="totallyTimeSpent" value="9614000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="113" y="103" width="1220" height="765" extended-state="0" />
@@ -280,8 +271,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../sparkapp/graphx/src/main/scala/sim.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="77" column="65" selection-start-line="77" selection-start-column="65" selection-end-line="77" selection-end-column="65" />
+        <state relative-caret-position="267">
+          <caret line="72" column="16" lean-forward="true" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="16" />
           <folding>
             <element signature="e#33#65#0" expanded="true" />
           </folding>
